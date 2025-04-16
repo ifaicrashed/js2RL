@@ -1,11 +1,11 @@
-# js-rl-gym
+# js2rl
 
-**js-rl-gym** is a Reinforcement Learning (RL) library written in JavaScript. This library provides a modular framework for creating and training RL agents in various environments. It supports both browser-based and Node.js usage.
+**js2rl** is a Reinforcement Learning (RL) library written in JavaScript. This library provides a modular framework for creating and training RL agents in various environments. It supports both browser-based and Node.js usage.
 
 ## Project Structure
 
 ```plaintext
-js-rl-gym/
+js2rl/
 │── index.html          # Browser Demo (Optional)
 │── README.md           # Project Docs
 │
